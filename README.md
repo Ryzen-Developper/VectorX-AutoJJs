@@ -12,6 +12,10 @@ VectorX é uma ferramenta desenvolvida para automatizar o processo **AutoJJ's** 
 ✅ **Desenvolvido para operações seguras e ágeis**  
 
 ---
+## 📁Downloads
+### Mediafire:
+### Google Drive: https://drive.google.com/file/d/1Ro4876Ek_Lh6l3PnJentZYd0tS503f9T/view?usp=drive_link
+---
 
 ## 📖 Como Usar
 
