@@ -12,7 +12,7 @@ VectorX é uma ferramenta desenvolvida para automatizar o processo **AutoJJ's** 
 ✅ **Desenvolvido para operações seguras e ágeis**  
 
 ---
-## 📁[Download clique em mim](https://github.com/Ryzen-Developper/VectorX-AutoJJs/raw/refs/heads/master/VectorX_Installer.exe)
+## 📁[Download clique em mim]((https://github.com/Ryzen-Developper/VectorX-AutoJJs/releases/download/v2.1.3/VectorX_Installer.exe)
 ---
 
 ## 📖 Como Usar
