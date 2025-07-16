@@ -38,8 +38,8 @@ VectorX é uma ferramenta desenvolvida para automatizar o processo **AutoJJ's** 
 
 ## 🔗 Contato e Suporte
 👑 **Criado por:** Ryzen  
-💬 **[Entre no nosso Discord](https://discord.gg/9dPeC5Tpun) para suporte e atualizações!
-💻 **[Visite nosso site!](https://vectorx-com.vercel.app) para informações.
+💬 **[Entre no nosso Discord](https://discord.gg/9dPeC5Tpun) para suporte e atualizações!**
+💻 **[Visite nosso site!](https://vectorx-com.vercel.app) para informações.**
 
 ---
 
