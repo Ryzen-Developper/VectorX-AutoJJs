@@ -22,9 +22,8 @@ VectorX é uma ferramenta desenvolvida para automatizar o processo **AutoJJ's** 
 ### 🔹 Configurações e Controles:
 - **Intervalo entre envios** (Recomendado: **2.4s ou mais**)
 - **Número inicial** (Exemplo: **0**)
-- **Número final** (Máximo: **2.000**)
+- **Número final** (Máximo: **500**)
 - **Caractere especial de finalização** (Exemplo: **ZERO !**)
-- **Botão de seleção de chat** (Obrigatório indicar onde está o chat)
 - **Botão de início/parada** para iniciar e interromper o processo
 
 🔹 **Ajuste os parâmetros conforme necessário e inicie a automação com um clique!**
@@ -40,6 +39,7 @@ VectorX é uma ferramenta desenvolvida para automatizar o processo **AutoJJ's** 
 ## 🔗 Contato e Suporte
 👑 **Criado por:** Ryzen  
 💬 **[Entre no nosso Discord](https://discord.gg/9dPeC5Tpun)** para suporte e atualizações!
+💻 **[Visite nosso site!](https://vectorx-com.vercel.app) para informações.
 
 ---
 
