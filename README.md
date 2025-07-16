@@ -1,4 +1,4 @@
-# VectorX - AutoJJ's ![VectorX - AutoJJ's](https://cdn.discordapp.com/attachments/1350838301703012402/1395091916533534800/Icone_do_app_VectorX_1_3.png?ex=68793018&is=6877de98&hm=22fad7d4f30d6cc45775d81e14710681d2bb2425c5b4d39210545cf2147a266c&)
+# VectorX - AutoJJ's ![VectorX - AutoJJ's](https://cdn.discordapp.com/attachments/1350838301703012402/1395092066094157975/Icone_do_app_VectorX_1_2.png?ex=6879303c&is=6877debc&hm=e6d69dd07b6636c4eb5cad695916befbd0425edc295855fa0aafca6973335cd4&)
 
 ## 🚀 VectorX | Automação para o Exército Brasileiro (EB)
 
