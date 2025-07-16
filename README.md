@@ -17,7 +17,7 @@ VectorX é uma ferramenta desenvolvida para automatizar o processo **AutoJJ's** 
 
 ## 📖 Como Usar
 
-![Tutorial](https://cdn.discordapp.com/attachments/1129522431141351499/1345779050722885755/Tutorialgithub.png?ex=67c5c9e9&is=67c47869&hm=47ed25f8165896853d4abf37317c051cba450064d3fcdc6ae8d9cf758d323e9b&)
+![Tutorial](https://cdn.discordapp.com/attachments/1350838301703012402/1395090914006929558/Tutorial.PNG?ex=68792f29&is=6877dda9&hm=9e4cb61c3b445df0bf11d8e85bd205a0887f35af86596a659848d892427d1d40&)
 
 ### 🔹 Configurações e Controles:
 - **Intervalo entre envios** (Recomendado: **2.4s ou mais**)
