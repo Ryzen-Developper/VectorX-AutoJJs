@@ -32,7 +32,7 @@ VectorX é uma ferramenta desenvolvida para automatizar o processo **AutoJJ's** 
 
 ## 🎥 Tutorial em Vídeo
 
-📌 [**ASSISTA O TUTORIAL AQUI**](https://youtu.be/FIMvBMwq1zQ?si=Td29f92DD_VIolRB)  
+📌 [**ASSISTA O TUTORIAL AQUI**](https://youtu.be/LUJkLJZh_JI?si=AeYxd_BE4IrLE-UX)  
 
 ---
 
